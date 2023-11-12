@@ -16,8 +16,23 @@ credits: true
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
-- a CSV of collection metadata
+- a CSV of collection **metadata**
 - a folder of JPG images or PDF documents
+
+1. Thing 1
+2. Thing 2
+
+{% include feature/image.html objectid="psychiana005" width="75" %}
+
+[CollectionBuilder-GH](https://collectionbuilding.github.io/gh/)
+
+## Heading 2
+
+This is a first sentence. This is a second sentence.
+
+This is a first sentence.
+
+This is a second sentence.
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
